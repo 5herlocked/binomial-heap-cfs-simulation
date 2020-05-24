@@ -1,0 +1,13 @@
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.exe
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.deps.json
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.runtimeconfig.json
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.runtimeconfig.dev.json
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.dll
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\bin\Release\netcoreapp3.1\CompletelyFairScheduler.pdb
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.csprojAssemblyReference.cache
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.AssemblyInfoInputs.cache
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.AssemblyInfo.cs
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.csproj.CoreCompileInputs.cache
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.dll
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.pdb
+C:\Users\camv7\source\OpSys\CompletelyFairScheduler\CompletelyFairScheduler\obj\Release\netcoreapp3.1\CompletelyFairScheduler.genruntimeconfig.cache
